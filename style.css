@@ -1,5 +1,5 @@
 :root {
-    --cor-de-fundo: #676767;
+    --cor-de-fundo: #b9b9b9;
     --cor-da-escrita: #000000;
 }
 
@@ -24,7 +24,7 @@ body {
 }
 .btn {
     padding: 10px 20px;
-    background-color: #007bff;
+    background-color: #737373;
     color: #000000;
     border: none;
     border-radius: 4px;
