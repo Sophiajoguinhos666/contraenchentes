@@ -13,6 +13,10 @@ body {
     color: var(--cor-da-escrita);
 }
 
-.container {
- display:grid
+.projeto {
+    display: grid;
+}
+
+.botões {
+    display: grid;
 }
