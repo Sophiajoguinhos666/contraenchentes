@@ -14,7 +14,7 @@
 header {
     background-color: var(--cor-header);
     color: var(--cor-da-escrita);
-    display: grid;
+    display: flex;
 }
 
 .search {
