@@ -2,6 +2,7 @@
     --cor-de-fundo: #676767;
     --cor-da-escrita: #000000;
     --cor-header: #a4a4a4bd;
+    --cor-botões: #e8e8e8eb;
 }
 
 * {
@@ -10,9 +11,9 @@
 }
 
 header {
- background-color: var(--cor-header);
- color: var(--cor-da-escrita);
- display: grid;
+    background-color: var(--cor-header);
+    color: var(--cor-da-escrita);
+    display: grid;
 }
 
 body {
@@ -20,9 +21,12 @@ body {
     color: var(--cor-da-escrita);
 }
 
-.projeto {
-    display: grid;
+.button {
+    background-color: var(--cor-botões);
+    color: var(--cor-botões);
+    display: flex;
 }
+
 
 
 @media (max-width: 768px) {
