@@ -58,7 +58,7 @@ body {
     background-color: var(--barra-de-pesquisa);
     text-align: center;
     padding: 60px 0 20px;
-
+    display: flex;
 }
 
 #texto {
