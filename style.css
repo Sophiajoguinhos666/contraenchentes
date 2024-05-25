@@ -3,6 +3,7 @@
     --cor-da-escrita: #000000;
     --cor-header: #a4a4a4bd;
     --cor-botões: #e8e8e8eb;
+    --barra-de-pesquisa: #a597ff;
 }
 
 * {
@@ -52,7 +53,7 @@ body {
 }
 
 .pesquisa {
-    background-color: #ffffff;
+    background-color: var(--barra-de-pesquisa);
     text-align: center;
     padding: 60px 0 20px;
 
