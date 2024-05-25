@@ -43,6 +43,11 @@ body {
     justify-content: space-between;
 }
 
+
+.search button:passar o mouse {
+    background-color: #0056b3;
+}
+
 .agrinho {
     display: flex;
     background-color: var(--cor-fundp-imagem);
