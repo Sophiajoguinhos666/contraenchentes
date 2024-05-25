@@ -24,6 +24,7 @@ body {
 .button {
     background-color: var(--cor-botões);
     color: var(--cor-botões);
+    width: 15px;
     display: flex;
 }
 
