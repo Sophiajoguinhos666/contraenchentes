@@ -1,11 +1,18 @@
 :root {
     --cor-de-fundo: #676767;
     --cor-da-escrita: #000000;
+    --cor-header: #a4a4a4bd;
 }
 
 * {
     margin: 0;
     padding: 0;
+}
+
+header {
+ background-color: var(--cor-header);
+ color: var(--cor-da-escrita);
+ display: grid;
 }
 
 body {
@@ -17,40 +24,9 @@ body {
     display: grid;
 }
 
-.btn-container {
-    display: flex;
-    justify-content: space-between;
-    padding: 20px;
-}
 
-.btn {
-    padding: 10px 20px;
-    background-color: #a1a1a1;
-    color: #000000;
-    border: none;
-    border-radius: 4px;
-    cursor: pointer;
-    font-size: 16px;
-}
-
-
-/* CSS para telas menores (tablets e celulares) */
 @media (max-width: 768px) {
     .container {
-        max-width: 100%;
-        margin: 20px;
-        padding: 10px;
-    }
-
-    h1 {
-        font-size: 24px;
-    }
-
-    p {
-        font-size: 16px;
-    }
-
-    .btn {
-        font-size: 14px;
+        width: 90%;
     }
 }
