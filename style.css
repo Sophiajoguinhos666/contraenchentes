@@ -36,6 +36,9 @@ body {
     justify-content: space-between;
 }
 
+.diminuir {
+    width: 15%;
+}
 
 
 @media (max-width: 768px) {
