@@ -30,7 +30,10 @@ body {
 }
 
 .agrinho {
-    width: 60%;;
+    display: flex;
+    background-color: var(--cor-fundp-imagem);
+    align-content: center;
+    justify-content: space-between;
 }
 
 
