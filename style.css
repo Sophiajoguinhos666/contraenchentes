@@ -77,5 +77,8 @@ body {
         padding: 0 20px;
 
     }
+}
 
+.roda-pé {
+    display: flex;
 }
