@@ -78,7 +78,7 @@ body {
     top: 100%;
     left: 80%;
     background-color: #0056b3;
-    width: 50%;
+
 }
 .aba:checked ~ .lista{
     display: block;
