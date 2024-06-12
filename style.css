@@ -15,6 +15,7 @@ header {
     background-color: var(--cor-header);
     color: var(--cor-da-escrita);
     display: grid;
+    position: relative;
 }
 
 .search {
@@ -73,6 +74,8 @@ body {
 
 .lista{
     display: none;
+    position: absolute;
+    top: 100%;
 }
 .aba:checked ~ .lista{
     display: block;
