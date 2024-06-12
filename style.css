@@ -76,9 +76,11 @@ body {
     display: none;
     position: absolute;
     top: 100%;
-    left: 80%;
     background-color: #0056b3;
-
+margin-left: 10px ;
+}
+.tit{
+    margin-left: 10px;
 }
 .aba:checked ~ .lista{
     display: block;
