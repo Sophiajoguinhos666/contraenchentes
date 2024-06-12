@@ -76,6 +76,8 @@ body {
     display: none;
     position: absolute;
     top: 100%;
+    background-color: #0056b3;
+    width: 50%;
 }
 .aba:checked ~ .lista{
     display: block;
@@ -83,6 +85,12 @@ body {
 
 #menu{
     display: none;
+}
+ul li{
+    list-style: none;
+}
+li a{
+color: red;
 }
 @media screen and (min-width: 1728px) {
     .foto-corpo {
