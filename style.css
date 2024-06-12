@@ -71,6 +71,16 @@ body {
     color: #777777;
 }
 
+.lista{
+    display: none;
+}
+.aba:checked ~ .lista{
+    display: block;
+}
+
+#menu{
+    display: none;
+}
 @media screen and (min-width: 1728px) {
     .foto-corpo {
         width: 30%;
