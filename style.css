@@ -64,6 +64,7 @@ body {
     text-align: center;
     padding: 60px 0 20px;
     display: flex;
+    flex-direction: column;
 }
 
 #texto {
