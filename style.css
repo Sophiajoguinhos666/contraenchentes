@@ -92,6 +92,10 @@ ul li{
 li a{
 color: red;
 }
+
+.lista-item{
+    padding: 12px 0;
+}
 @media screen and (min-width: 1728px) {
     .foto-corpo {
         width: 30%;
