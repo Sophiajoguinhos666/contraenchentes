@@ -134,7 +134,7 @@ li a {
 }
 
 .prototipo {
-    display: flex;
+    display: grid;
     /* Utiliza flexbox para alinhar os itens */
     align-items: center;
     /* Alinha verticalmente os itens */
