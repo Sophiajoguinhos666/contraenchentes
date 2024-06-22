@@ -19,3 +19,9 @@ header{
     display: grid;
     justify-items: center;
 }
+
+.roda-pé {
+    display: grid;
+    justify-items: center;
+    background-color: #008688;
+}
