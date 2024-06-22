@@ -33,3 +33,30 @@ header{
     margin-bottom: 20px;
     /* Espaçamento abaixo do conteúdo */
 }
+
+.materiais  {
+    display: grid;
+    /* Utiliza flexbox para alinhar os itens */
+    align-items: center;
+    /* Alinha verticalmente os itens */
+    margin-top: 20px;
+    /* Espaçamento acima do conteúdo */
+    margin-bottom: 20px;
+    /* Espaçamento abaixo do conteúdo */
+}
+
+.diminuir {
+    width:20%;
+}
+
+.diminuir2 {
+    width: 20%;
+}
+
+.diminuir3 {
+    width: 20%;
+}
+
+.diminuir4 {
+    width: 20%;
+}
