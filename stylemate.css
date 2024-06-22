@@ -19,3 +19,10 @@ header{
     display: grid;
     justify-items: center;
 }
+
+.nomes{
+    margin-top: 20px;
+    /* Espaçamento acima do conteúdo */
+    margin-bottom: 20px;
+    /* Espaçamento abaixo do conteúdo */
+}
