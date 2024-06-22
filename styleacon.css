@@ -17,4 +17,5 @@ header{
     background-color: var(--cor-de-fundo);
     color: var(--cor-da-escrita);
     display: grid;
+    justify-items: center;
 }
