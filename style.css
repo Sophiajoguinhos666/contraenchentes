@@ -149,14 +149,16 @@ li a {
     /* Margem à direita para separar as imagens do texto */
 }
 
-.imgprototipo{
+.imgprototipo {
     display: flex;
     /* Utiliza flexbox para alinhar os itens */
     align-items: center;
     /* Alinha verticalmente os itens */
+    margin-right: 20px;
+    /* Espaçamento à direita entre as imagens */
 }
 
-.diminuir3{
+.diminuir3 {
     width: 40%;
 }
 
