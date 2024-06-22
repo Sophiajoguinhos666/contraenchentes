@@ -114,7 +114,8 @@ li a {
 }
 
 .roda-pé {
-    display: flex;
+    display: grid;
+    background-color: #008688;
 }
 
 .sujestao {
