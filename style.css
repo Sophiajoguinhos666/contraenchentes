@@ -152,7 +152,7 @@ li a {
 .imgprototipo {
     display: block;
     /* Garante que as imagens se comportem como elementos de bloco */
-    margin-right: 20px;
+    margin-right: 40px;
     /* Espaçamento à direita entre as imagens */
 
 }
