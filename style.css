@@ -113,9 +113,13 @@ text-decoration: none;
 }
 
 .sujestao {
-    display: grid;
-    justify-items: center;
+    display: flex; /* Utiliza flexbox para alinhar os itens */
+      align-items: center; /* Alinha verticalmente os itens */
 }
+
+.textosujestao {
+    margin-right: 20px; /* Margem à direita para separar as imagens do texto */
+  }
 
 .diminuir2 {
     width: 60%;
