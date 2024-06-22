@@ -1,9 +1,9 @@
 :root {
-    --cor-de-fundo: #676767;
+    --cor-de-fundo: #40E0D0;
     --cor-da-escrita: #ffffff;
-    --cor-header: #676767;
-    --cor-botões: #676767;
-    --barra-de-pesquisa: #676767;
+    --cor-header: #40E0D0;
+    --cor-botões: #40E0D0;
+    --barra-de-pesquisa: #40E0D0;
 }
 
 * {
@@ -46,7 +46,7 @@ body {
 
 
 .search button:passar o mouse {
-    background-color: #0056b3;
+    background-color: #8a8e8d;
 }
 
 .agrinho {
@@ -93,7 +93,7 @@ ul li{
     list-style: none;
 }
 li a{
-color: red;
+color: rgb(0, 0, 0);
 text-decoration: none;
 }
 
