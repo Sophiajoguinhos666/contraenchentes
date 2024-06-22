@@ -1,9 +1,9 @@
 :root {
-    --cor-de-fundo: #40E0D0;
+    --cor-de-fundo: #008B8B;
     --cor-da-escrita: #ffffff;
-    --cor-header: #40E0D0;
-    --cor-botões: #40E0D0;
-    --barra-de-pesquisa: #40E0D0;
+    --cor-header: #008B8B;
+    --cor-botões: #008B8B;
+    --barra-de-pesquisa: #008B8B;
 }
 
 * {
