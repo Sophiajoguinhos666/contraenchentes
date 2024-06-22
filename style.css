@@ -112,9 +112,8 @@ text-decoration: none;
     display: flex;
 }
 
-.organizacao {
+.sujestao {
     display: grid;
-    justify-items: center;
 }
 
 .diminuir2 {
