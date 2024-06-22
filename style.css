@@ -111,3 +111,7 @@ text-decoration: none;
 .roda-pé {
     display: flex;
 }
+
+.diminuir {
+    width: 40%;
+}
