@@ -112,6 +112,10 @@ text-decoration: none;
     display: flex;
 }
 
+.organizacao {
+    display: grid;
+}
+
 .diminuir2 {
     width: 60%;
 }
