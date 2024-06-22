@@ -115,6 +115,7 @@ li a {
 
 .roda-pé {
     display: grid;
+    justify-items: center;
     background-color: #008688;
 }
 
