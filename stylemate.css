@@ -26,3 +26,10 @@ header{
     margin-bottom: 20px;
     /* Espaçamento abaixo do conteúdo */
 }
+
+.funciona{
+    margin-top: 20px;
+    /* Espaçamento acima do conteúdo */
+    margin-bottom: 20px;
+    /* Espaçamento abaixo do conteúdo */
+}
