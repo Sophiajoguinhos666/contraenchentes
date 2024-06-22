@@ -13,29 +13,29 @@ body {
     color: var(--cor-da-escrita);
 }
 
-header{
+header {
     background-color: var(--cor-de-fundo);
     color: var(--cor-da-escrita);
     display: grid;
     justify-items: center;
 }
 
-.nomes{
+.nomes {
     margin-top: 20px;
     /* Espaçamento acima do conteúdo */
     margin-bottom: 20px;
     /* Espaçamento abaixo do conteúdo */
 }
 
-.funciona{
+.funciona {
     margin-top: 20px;
     /* Espaçamento acima do conteúdo */
     margin-bottom: 20px;
     /* Espaçamento abaixo do conteúdo */
 }
 
-.materiais  {
-    display: grid;
+.materiais {
+    display: block;
     /* Utiliza flexbox para alinhar os itens */
     align-items: center;
     /* Alinha verticalmente os itens */
@@ -43,10 +43,12 @@ header{
     /* Espaçamento acima do conteúdo */
     margin-bottom: 20px;
     /* Espaçamento abaixo do conteúdo */
+    padding: 5px;
+    /* Adiciona um espaçamento ao redor de cada imagem */
 }
 
 .diminuir {
-    width:20%;
+    width: 20%;
 }
 
 .diminuir2 {
