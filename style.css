@@ -150,12 +150,11 @@ li a {
 }
 
 .imgprototipo {
-    display: flex;
-    /* Utiliza flexbox para alinhar os itens */
-    align-items: center;
-    /* Alinha verticalmente os itens */
+    display: block;
+    /* Garante que as imagens se comportem como elementos de bloco */
     margin-right: 20px;
     /* Espaçamento à direita entre as imagens */
+
 }
 
 .diminuir3 {
