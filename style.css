@@ -114,6 +114,7 @@ text-decoration: none;
 
 .sujestao {
     display: grid;
+    justify-items: center;
 }
 
 .diminuir2 {
