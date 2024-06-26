@@ -1,11 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
 
 :root {
-    --cor-de-fundo: #a3bce9;
+    --cor-de-fundo: #B0E0E6;
     --cor-da-escrita: #000000;
-    --cor-header: #a3bce9;
-    --cor-botões: #a3bce9;
-    --barra-de-pesquisa: #a3bce9;
+    --cor-header: #B0E0E6;
+    --cor-botões: #B0E0E6;
+    --barra-de-pesquisa: #B0E0E6;
 }
 
 * {
