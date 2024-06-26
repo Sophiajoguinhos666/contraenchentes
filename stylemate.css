@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
 :root {
     --cor-de-fundo: #66CDAA;
     --cor-da-escrita: #000000;
@@ -11,6 +13,10 @@
 body {
     background-color: var(--cor-de-fundo);
     color: var(--cor-da-escrita);
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
 }
 
 header {
