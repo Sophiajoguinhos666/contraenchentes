@@ -25,3 +25,8 @@ header {
     display: grid;
     justify-items: center;
 }
+
+.texto1 {
+    margin-bottom: 20px; 
+
+}
