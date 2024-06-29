@@ -127,14 +127,11 @@ li a {
 
 .sujestao {
     display: flex;
-    /* Utiliza flexbox para alinhar os itens */
     align-items: center;
-    /* Alinha verticalmente os itens */
 }
 
 .textosujestao {
     margin-right: 20px;
-    /* Margem à direita para separar as imagens do texto */
 }
 
 .diminuir2 {
@@ -143,25 +140,18 @@ li a {
 
 .prototipo {
     display: grid;
-    /* Utiliza flexbox para alinhar os itens */
     align-items: center;
-    /* Alinha verticalmente os itens */
     margin-top: 20px;
-    /* Espaçamento acima do conteúdo */
     margin-bottom: 20px;
-    /* Espaçamento abaixo do conteúdo */
 }
 
 .textosujestao {
     margin-right: 20px;
-    /* Margem à direita para separar as imagens do texto */
 }
 
 .imgprototipo {
     display: block;
-    /* Garante que as imagens se comportem como elementos de bloco */
     margin-right: 40px;
-    /* Espaçamento à direita entre as imagens */
 
 }
 
@@ -172,4 +162,3 @@ li a {
 .diminuir4 {
     width: 40%;
 }
-
