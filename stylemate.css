@@ -28,29 +28,20 @@ header {
 
 .nomes {
     margin-top: 20px;
-    /* Espaçamento acima do conteúdo */
     margin-bottom: 20px;
-    /* Espaçamento abaixo do conteúdo */
 }
 
 .funciona {
     margin-top: 20px;
-    /* Espaçamento acima do conteúdo */
     margin-bottom: 20px;
-    /* Espaçamento abaixo do conteúdo */
 }
 
 .materiais {
     display: block;
-    /* Utiliza flexbox para alinhar os itens */
     align-items: center;
-    /* Alinha verticalmente os itens */
     margin-top: 20px;
-    /* Espaçamento acima do conteúdo */
     margin-bottom: 20px;
-    /* Espaçamento abaixo do conteúdo */
     padding: 20px;
-    /* Adiciona um espaçamento ao redor de cada imagem */
 }
 
 .diminuir {
@@ -70,27 +61,27 @@ header {
 }
 
 .texto1 {
-    margin-bottom: 20px; 
+    margin-bottom: 20px;
     line-height: 1.6;
 }
 
 .texto2 {
-    margin-bottom: 20px; 
+    margin-bottom: 20px;
     line-height: 1.6;
 }
 
 .texto3 {
-    margin-bottom: 20px; 
+    margin-bottom: 20px;
     line-height: 1.6;
 }
 
 .texto4 {
-    margin-bottom: 20px; 
+    margin-bottom: 20px;
     line-height: 1.6;
 }
 
 .prototipo {
-    margin-bottom: 20px; 
+    margin-bottom: 20px;
     line-height: 1.6;
 }
 
