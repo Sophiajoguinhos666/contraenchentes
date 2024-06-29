@@ -172,3 +172,8 @@ li a {
 .diminuir4 {
     width: 40%;
 }
+
+.rounded-image {
+    border-radius: 10px;
+    overflow: hidden;
+}
