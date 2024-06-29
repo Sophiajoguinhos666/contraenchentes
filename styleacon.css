@@ -33,32 +33,65 @@ header {
 }
 
 .texto1 {
-    margin-bottom: 20px; 
+    margin-bottom: 20px;
     line-height: 1.6;
 }
 
 .texto2 {
-    margin-bottom: 20px; 
+    margin-bottom: 20px;
     line-height: 1.6;
 }
 
 .texto3 {
-    margin-bottom: 20px; 
+    margin-bottom: 20px;
     line-height: 1.6;
 }
 
 .texto4 {
-    margin-bottom: 20px; 
+    margin-bottom: 20px;
     line-height: 1.6;
 }
 
 .texto5 {
-    margin-bottom: 20px; 
+    margin-bottom: 20px;
     line-height: 1.6;
 }
 
 .texto6 {
-    margin-bottom: 20px; 
+    margin-bottom: 20px;
     line-height: 1.6;
 }
 
+.container {
+    max-width: 800px;
+    /* largura máxima do container */
+    margin: 0 auto;
+    /* centraliza o container na página */
+    padding: 20px;
+    /* espaçamento interno do container */
+}
+
+.row {
+    display: flex;
+    /* flexbox para alinhar as colunas */
+    justify-content: space-between;
+    /* distribui as colunas uniformemente */
+    margin-bottom: 20px;
+    /* espaçamento entre as linhas */
+}
+
+.col {
+    flex: 1;
+    /* cada coluna ocupa uma fração igual de espaço */
+}
+
+img {
+    display: block;
+    /* remove espaços em branco abaixo das imagens */
+    max-width: 100%;
+    /* garante que as imagens não ultrapassem seu contêiner */
+    height: auto;
+    /* mantém a proporção da imagem */
+    margin-bottom: 10px;
+    /* espaçamento inferior entre as imagens */
+}
