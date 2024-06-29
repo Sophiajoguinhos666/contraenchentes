@@ -173,21 +173,3 @@ li a {
     width: 40%;
 }
 
-.image-container {
-    width: 100%;
-    /* Garante que o container ocupe toda a largura disponível */
-}
-
-.left-image {
-    float: left;
-    /* Imagem à esquerda */
-    margin-right: 10px;
-    /* Espaçamento à direita para separar as imagens */
-}
-
-.right-image {
-    float: right;
-    /* Imagem à direita */
-    margin-left: 10px;
-    /* Espaçamento à esquerda para separar as imagens */
-}
