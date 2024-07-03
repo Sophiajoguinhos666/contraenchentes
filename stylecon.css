@@ -59,8 +59,9 @@ header {
 }
 
 .título {
-    display: grid;
     font-family: "Bevan", serif;
     font-weight: 400;
     font-style: italic;
+    display: grid;
+    justify-items: center;
 }
