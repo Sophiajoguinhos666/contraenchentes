@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda+SC:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda+SC:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&family=Holtwood+One+SC&display=swap');
 
 :root {
     --cor-de-fundo: #B0C4DE;
@@ -190,8 +190,7 @@ li a {
 }
 
 .título {
-    font-family: "Bodoni Moda SC", serif;
-    font-optical-sizing: auto;
-    font-weight: weight;
-    font-style:normal;
+    font-family: "Holtwood One SC", serif;
+    font-weight: 400;
+    font-style: normal;
 }
