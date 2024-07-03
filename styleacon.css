@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda+SC:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&family=Holtwood+One+SC&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Bevan:ital@0;1&family=Bodoni+Moda+SC:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&family=Holtwood+One+SC&display=swap');
 :root {
     --cor-de-fundo: #66CDAA;
     --cor-da-escrita: #000000;
@@ -87,7 +86,7 @@ img {
 }
 
 .título {
-    font-family: "Holtwood One SC", serif;
+    font-family: "Bevan", serif;
     font-weight: 400;
-    font-style: normal;
+    font-style: italic;
 }
